@@ -1,0 +1,207 @@
+#new-main{
+    margin-top: 140px;
+}
+
+#recruitment{
+    margin-bottom: 15px;
+}
+
+.breadcrumb-shop{
+    padding-top: 45px;
+    background: #f5f5f5;
+    border-bottom: 1px solid #e7e7e7;
+}
+
+.breadcrumb-old{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1340px;
+}
+
+.breadcrumb-arrows{
+    padding: 10px 0;
+    background: transparent;
+    border-radius: 0;
+    margin: 0 20px;
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    white-space: normal;
+    animation: center;
+}
+
+.breadcrumb-arrows li{
+    font-size: 13px;
+    white-space: nowrap;
+    flex: 0 0 auto;
+    display: inline-block;
+}
+
+.breadcrumb-arrows a{
+    white-space: nowrap;
+}
+
+.before{
+    padding: 0 3px;
+    color: #ccc;
+}
+
+.wrapper-row{
+    padding-top: 30px;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.heading-page-text-center{
+    text-align: center;
+}
+
+.heading-page-text-center h1{
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+.wrap-content-page{
+    padding: 15px;
+    background: #f5f5f5;
+    border-radius: 5px;
+}
+
+.head-title-filter{
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.group-filter{
+    margin: 0 -10px;
+    margin-top: 15px;
+    justify-content: center;
+    display: flex;
+}
+
+.group-select-one{
+    padding: 0 10px;
+}
+
+.group-select-one select{
+    border: 1px solid #ccc;
+    padding: 10px 15px;
+    border-radius: 3px;
+    outline: none;
+    min-width: 250px;
+}
+
+.filter-button{
+    margin: 15px 0;
+    justify-content: center;
+    display: flex;
+}
+
+.filter-button .clear{
+    background: none;
+    padding: 7px 10px;
+    min-width: 150px;
+    margin: 0 5px;
+    border: 1px solid #000;
+    font-size: 16px;
+    font-weight: 500;
+    transition: all .2s;
+}
+
+.filter-button .clear:hover{
+    background: #000;
+    color: #fff;
+}
+
+.filter-button .filter{
+    background: #000;
+    color: #fff;
+    padding: 7px 10px;
+    min-width: 150px;
+    margin: 0 5px;
+    border: 1px solid #000;
+    font-size: 16px;
+    font-weight: 500;
+    transition: all .2s;
+}
+
+.filter-button .filter:hover{
+    background: #fff;
+    color: #000;
+}
+
+.filter-result{
+    margin-top: 15px;
+}
+
+.desktop{
+    width: 100%;
+    background-color: transparent;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.desktop thead{
+    border-bottom: 2px solid #000;
+}
+
+.desktop thead th{
+    font-size: 18px;
+    padding-left: 0px;
+    text-align: left;
+    padding: 10px;
+}
+
+.desktop tbody tr{
+    cursor: pointer;
+    background: #ddd;
+    margin-bottom: 2px;
+    border-color: #000;
+    border: 1px solid #ccc;
+}
+
+.desktop tbody td{
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+}
+
+.list-new-recruitment{
+    margin-top: 20px;
+}
+
+.row{
+    margin-top: 50xp;
+    height: 385px;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.artile-item{
+    width: 33.33%;
+    float: left;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+/* .dt-width-100{
+    width: 100%;
+    height: auto;
+    vertical-align: middle;
+} */
+
+.blog-title{
+    font-size: 18px;
+    margin-top: 10px;
+    display: block;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.blog-desc{
+    text-align: center;
+    margin: 0 0 10px 0;
+    line-height: 21px;
+}
